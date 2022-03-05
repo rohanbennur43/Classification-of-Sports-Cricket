@@ -1,6 +1,6 @@
 # Classification of Sports - Cricket
 
-## Overview
+## Overview 
 
 This repository contains the code and documentation for a Capstone project focused on the classification of sports, with a primary focus on cricket. The project utilizes machine learning techniques, including CNN-LSTM with attention mechanisms, Random Forest, and SVM algorithms to achieve accurate and reliable classification results.
 
@@ -8,7 +8,7 @@ This repository contains the code and documentation for a Capstone project focus
 
 The project is organized into the following main components:
 
-- **src:** Jupyter notebooks containing the implementation and analysis of the CNN-LSTM model with attention, Random Forest, and SVM.
+- **Src:** Jupyter notebooks containing the implementation and analysis of the CNN-LSTM model with attention, Random Forest, and SVM.
 - **Webapp :** Contains the code for web app
 - **Docs** Contains the nexessary documents
 
